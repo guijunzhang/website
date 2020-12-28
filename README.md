@@ -6,7 +6,7 @@ I intended to create a personal website that will demonstrate my skills and inte
 
 ## Code Style 
 
-Since this is my first time learning html and css, I do not have a Code Style preference.
+Since this is my first time learning html, css, and javascript, I do not have a Code Style preference.
 I primarily refer to Google's Java Style Guide for Java codes and PEP 8 for Python codes. 
 
 Google's Java Style Guide:
